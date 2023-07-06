@@ -1,0 +1,103 @@
+- 21 — ftp
+- 22 — ssh
+- 23 — telnet
+- 80, 8000, 8001, 8002, 8004, 8006, 8007, 8008, 8080, 8888 — http
+- 88 — kerberos
+- 139 — netbios
+- 143 — imap
+- 389 — ldap
+- 443, 8443, 9443 — https
+- 445 — smb
+- 623, 49152 — ipmi
+- 636 — ldaps
+- 873 — rsync
+- 1099 — websphere
+- 1433, 1434 — mssql
+- 1500 — tivoli_storage_manager
+- 1540, 1541 — 1С
+- 2001, 2010 — ibm_http
+- 2181 — zookeeper
+- 2222 — ansible
+- 2375, 2376 — docker
+- 2379 — k8s etcd
+- 2809, 9043, 9060, 9080, 9501, 9502, 9503 — websphere
+- 5558, 5559 — websphere_java_messaging_serevice
+- 7873 — websphere_rds_client
+- 8879 — websphere_soap
+- 3306 — mysql
+- 3389 — rdp
+- 4678 — cisco smart install
+- 4899 — radmin
+- 5800 — 5810,5900,5901 — vnc
+- 5432, 5433 — postgresql
+- 5555 — hp_data_protector
+- 5557 — citrix
+- 5666 — nagious
+- 8291 — mikrotik
+- 10050, 10051 — zabbix
+- 7001 — weblogic
+- 9000 — clickhouse
+- 27017, 27018 — mongodb
+- 50013 — sap
+- 1521 — 1527 — oracle
+- 3200 — 3299 — sap
+- 4786 — cisco_smart_install
+- 9200, 9300 — elasticsearch
+- 5985, 5986 — winrm
+- 50070 — hdfs_ui
+- 6443 — k8s
+- 8111 — click_house
+- 8500, 8501 — consul
+- 8200, 8201 — vault
+- 10250, 10255 — k8s21 — ftp
+- 22 — ssh
+- 23 — telnet
+- 80, 8000, 8001, 8002, 8004, 8006, 8007, 8008, 8080, 8888 — http
+- 88 — kerberos
+- 139 — netbios
+- 143 — imap
+- 389 — ldap
+- 443, 8443, 9443 — https
+- 445 — smb
+- 623, 49152 — ipmi
+- 636 — ldaps
+- 873 — rsync
+- 1099 — websphere
+- 1433, 1434 — mssql
+- 1500 — tivoli_storage_manager
+- 1540, 1541 — 1С
+- 2001, 2010 — ibm_http
+- 2181 — zookeeper
+- 2222 — ansible
+- 2375, 2376 — docker
+- 2379 — k8s etcd
+- 2809, 9043, 9060, 9080, 9501, 9502, 9503 — websphere
+- 5558, 5559 — websphere_java_messaging_serevice
+- 7873 — websphere_rds_client
+- 8879 — websphere_soap
+- 3306 — mysql
+- 3389 — rdp
+- 4678 — cisco smart install
+- 4899 — radmin
+- 5800 — 5810,5900,5901 — vnc
+- 5432, 5433 — postgresql
+- 5555 — hp_data_protector
+- 5557 — citrix
+- 5666 — nagious
+- 8291 — mikrotik
+- 10050, 10051 — zabbix
+- 7001 — weblogic
+- 9000 — clickhouse
+- 27017, 27018 — mongodb
+- 50013 — sap
+- 1521 — 1527 — oracle
+- 3200 — 3299 — sap
+- 4786 — cisco_smart_install
+- 9200, 9300 — elasticsearch
+- 5985, 5986 — winrm
+- 50070 — hdfs_ui
+- 6443 — k8s
+- 8111 — click_house
+- 8500, 8501 — consul
+- 8200, 8201 — vault
+- 10250, 10255 — k8s
